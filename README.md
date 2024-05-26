@@ -1,5 +1,21 @@
 # JS_DSA
 
+Problem Solving Patterns :
+
+Frequency counter
+Multiple pointers
+Sliding Window 
+Divide and Conquer
+Dynamic Programming
+Greedy Algorithms 
+BackTracking
+Many more...
+
+Frequency counters:
+
+This pattern uses objects or sets to collect values/frequencies of values.
+This can often avoid the need fornested loops or O(n^2) operations with arrays or strings
+
 Static methods:
 
 Static method defines a static method which is a utility function so that we can call it with Class and pass the objects as parameters so it performs a function. See example in point_class.js
