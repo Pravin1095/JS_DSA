@@ -22,6 +22,10 @@ Creating pointers or values that correspond to an index or position and move tow
 
 Very efficient for solving problems with minimal space complexity as well
 
+Sliding Window: 
+
+This method involves creating a window which can either be an array or number from one position to another. Depending on certain conditions the window either opens or closes ( and a new window is created). Very useful for keeping track of subset of data in array/string etc
+
 Static methods:
 
 Static method defines a static method which is a utility function so that we can call it with Class and pass the objects as parameters so it performs a function. See example in point_class.js
