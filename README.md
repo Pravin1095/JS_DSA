@@ -26,6 +26,10 @@ Sliding Window:
 
 This method involves creating a window which can either be an array or number from one position to another. Depending on certain conditions the window either opens or closes ( and a new window is created). Very useful for keeping track of subset of data in array/string etc
 
+Divide and Conquer:
+
+This pattern invloves dividing a data set into smaller chunks and then repeating a process with a subset of data. This pattern can tremoundously decrease time complexity
+
 Static methods:
 
 Static method defines a static method which is a utility function so that we can call it with Class and pass the objects as parameters so it performs a function. See example in point_class.js
