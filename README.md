@@ -48,3 +48,27 @@ Links:
 
 https://cs.slides.com/colt_steele/singly-linked-lists#/6/0/3
 https://visualgo.net/en/list
+
+
+New features in JavaScript:
+
+Map:
+
+In JavaScript, a Map is a built-in data structure that stores key-value pairs. It's similar to an Object but offers more functionality, including maintaining the order of keys and allowing any data type (not just strings) as keys.
+
+const map=new Map()
+
+map.has(key) : This checks if the key is present in the map
+map.get(key) : This gets the value for the given key
+map.set(key, value) : This sets a new key and its value 
+
+
+charCodeAt():
+
+This return the ASCII value for a given string
+
+Syntax:
+string.charCodeAt(index of the string)
+Eg:
+s='hello'
+s.charCodeAt(0) Returns Ascii value of the character 'h'
