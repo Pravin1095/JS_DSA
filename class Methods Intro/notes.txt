@@ -1,0 +1,27 @@
+Class : 
+
+A class in JavaScript is a blueprint for creating objects. It defines properties (variables) and methods (functions)
+ that each object (or instance) will have.
+
+ Constructor:
+
+ Inside it, there is a constructor method, which is a special method that runs automatically when a new instance of the class is created.
+
+ this:
+
+ The this keyword is used to assign values to properties of the newly created object.
+
+ Static:
+
+ A static method in JavaScript is a method that belongs to the class itself, rather than instances of the class. This means you can call a static method without creating an object of the class.
+Example:
+
+class MathUtils {
+    static add(x, y) {
+        return x + y;
+    }
+}
+
+// Calling the static method directly from the class
+console.log(MathUtils.add(5, 3));
+

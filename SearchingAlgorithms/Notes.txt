@@ -1,0 +1,8 @@
+Linear Search:
+
+We start to search from the beginning of the array till its end to find the searched value.
+Build in functions that use LinearSearch:
+1.indexOf()
+2.includes()
+3.find()
+4.findIndex()

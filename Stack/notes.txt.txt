@@ -1,0 +1,16 @@
+Stack :
+
+It is a Last In First Out approach where the last item that is entered comes out first
+
+We can use array for stacks with methods like push, pop and shift, unshift but if it comes to Big O notation array is less efficient than linked list as we need to set the indices again each time in an array whenever we add a new item but it is not the case with linked list.
+
+Stack using linked list:
+
+We used push and pop in linked list to remove the incoming item from the list . We couldn't use the same here because push and pop according to stack should be of constant time but in linked list we are iterating through the list and then removing the item
+
+Big O of stacks:
+
+Insertion (push) - O(1)
+Removal (pop) - O(1)
+Searching  - O(n)
+Access - O(n)
