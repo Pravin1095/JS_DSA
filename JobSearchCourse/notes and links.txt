@@ -1,0 +1,38 @@
+Links : Generate resume https://www.eazl.ai/?promptId=JUntZypeN3ACVvNLlBhy
+
+6 Big Skills : 
+
+Use the job description in the portal and using that ask the AI to generate six big skills and post it in your resume
+
+Anti Robot Protocal:
+
+This is something where you use keywords , buzzwords etc.. to optimize your resume as the org scans your resume in AI and the AI filters based on keywords
+
+1. Keywords: 
+
+These are words found in the job description of the company's portal and we need to use them
+
+2. Buzzwords:
+
+Go to the company's website and search for any keywords that they are using there with highlights. You can apply those keywords in your personal summary . These things helps to filter out your resume
+
+3. Titles:
+
+Use Solid titles. These makes the robots highly recognie your resume.
+
+4. Softwares: 
+
+Check the website uses what kind of softwares and list that software in your other relevant information if you have worked on that software Eg: If company is delloite search as "Software for IT in deloitte" and if you are familiar with coming software add it. if you not aware of that software, look basic tutorials and add for example "github(basics)"
+
+5. Put your resume in https://worditout.com/word-cloud/create this website and this highlights some bigger words and those are the words that are spotted by the robot
+
+Personalized Resume SEO strategy: 
+https://www.eazl.ai/?promptId=qq4p5uGjOJ4Zig2is7AA
+
+Integrating Brands , details and quantities:
+
+While mentioning about your skills mention the client that you worked for (brands) and details like what you worked and quantities like how much percent is the performance improved and so on
+
+Resume template link:
+
+https://docs.google.com/document/d/1ZBsxFT5GEX56oLsVEESCDzHdpm2r7mpXbWH7bdzSVzM/edit?tab=t.0#heading=h.bmn3f23v6w0y

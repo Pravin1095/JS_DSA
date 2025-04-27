@@ -1,0 +1,8 @@
+Queue:
+
+It is a FIFO approach (First in first out)
+Uses:
+
+Background tasks
+Uploading files
+Printing / task processing

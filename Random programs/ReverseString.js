@@ -1,8 +1,5 @@
 
 class RandomPrograms{
-//     constructor(val){
-// this.val = val
-//     }
     reverse = (s)=>{
         let res =''
         let i =1
