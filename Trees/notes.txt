@@ -1,3 +1,7 @@
+Tree slides:
+
+https://cs.slides.com/colt_steele/trees
+
 Trees:
 
 A datastructure that consists of nodes in a parent/child relationship.

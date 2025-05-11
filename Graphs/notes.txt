@@ -1,0 +1,27 @@
+Graphs:
+
+https://cs.slides.com/colt_steele/graphs
+
+Graphs:
+
+Graphs are basically connections between the nodes. Unlike trees where we have a root from where all children originates, in graphs each nodes are equal , there is no any parent , its just connections
+
+Terms in Graphs :
+
+Vertex - a node
+Edge - connection between nodes
+Weighted/Unweighted : values assigned to distances between vertices
+Directed/Undirected : directions assigned to distanced between vertices
+
+Undirected and directed graphs:
+
+There is no directions associated with the undirected graph and in directed graph the directions are associated. Let's say A, B , C follows E in instagram and E (can be a celebrity) doesn't follow any of 3 , so it is directed
+
+Weighted graph:
+
+When there is a value on the edges of vertices its weighted graph. Eg : Maps, where distance is the value here to identify shortest path
+
+Storing Graphs:
+Adjacency Matrix:
+
+We cannot store all the nodes in the graph instead we can store what is connected to what using adjacency matrix. Its like a two dimensional table where we store the connections in boolean. Eg: If A is connected to B and F , in the 2D table under the row A check for column D and F and put the value as 1 and for other columns B, C, E put the values 0.

@@ -49,6 +49,10 @@ Links:
 https://cs.slides.com/colt_steele/singly-linked-lists#/6/0/3
 https://visualgo.net/en/list
 
+Graphs:
+
+https://cs.slides.com/colt_steele/graphs
+
 
 New features in JavaScript:
 

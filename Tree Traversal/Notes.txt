@@ -1,0 +1,13 @@
+Slides link:
+
+https://cs.slides.com/colt_steele/trees#/40
+
+Tree Traversal :
+
+Here we woruld need to find a node in a tree which is not binary. That is the node can be located anywhere in the tree.
+
+To solve this we would mostly be using recursion here .
+The approaches are :
+
+1. Breadth - first search (Searching the trees from across)
+2. Depth- first search (Searching the tress from top to bottom)
